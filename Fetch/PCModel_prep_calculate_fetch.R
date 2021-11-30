@@ -4,6 +4,7 @@
 ## Update:        17 Nov 2021 - minor bug fix, rasterize didn't work properly. Changed field value to 1, instead of character 'id'.
 ##
 ## Adapted from: Sven Teurlincx; 20151119_FetchCalc.r        
+## Method from: Janssen et al. 2017 (https://doi.org/10.1016/j.watres.2017.04.045)
 ##
 ## Goal: Calculate fetch from a lake shapefile and weather data, which can be used as input for PCLake+
 ##
